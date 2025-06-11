@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Homework-1\\68030116\\68030116.csproj": {}
+    "C:\\Users\\admin\\AppData\\Local\\GitHubDesktop\\app-3.4.20\\Homework-1\\68030116\\68030116.csproj": {}
   },
   "projects": {
-    "D:\\Homework-1\\68030116\\68030116.csproj": {
+    "C:\\Users\\admin\\AppData\\Local\\GitHubDesktop\\app-3.4.20\\Homework-1\\68030116\\68030116.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Homework-1\\68030116\\68030116.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\AppData\\Local\\GitHubDesktop\\app-3.4.20\\Homework-1\\68030116\\68030116.csproj",
         "projectName": "68030116",
-        "projectPath": "D:\\Homework-1\\68030116\\68030116.csproj",
+        "projectPath": "C:\\Users\\admin\\AppData\\Local\\GitHubDesktop\\app-3.4.20\\Homework-1\\68030116\\68030116.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Homework-1\\68030116\\obj\\",
+        "outputPath": "C:\\Users\\admin\\AppData\\Local\\GitHubDesktop\\app-3.4.20\\Homework-1\\68030116\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
